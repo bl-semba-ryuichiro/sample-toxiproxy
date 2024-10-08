@@ -1,2 +1,3 @@
 # sample-toxiproxy
-ToxiProxy を使ってみる
+
+Read here. https://beanslabo.co.jp/techblog/
